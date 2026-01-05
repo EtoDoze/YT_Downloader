@@ -1,24 +1,120 @@
-# YT_Downloader
-Downloader de vídeos do YT
-## Download MP3
-1 - Com o link em mãos, cole ele na barra de link
-2 - Selecione a opção MP3
-3 - selecione a pasta
-4 - aperte no download
-OBS: Você pode ver o nome do vídeo clicando no botão "mostrar titulo"
+🎬 YT Downloader
 
-## Download MP4
-1 - Com o link em mãos, cole ele na barra de link
-2 - Selecione a opção MP4
-3 - selecione a pasta
-4 - aperte no download
-OBS: Você pode ver o nome do vídeo clicando no botão "mostrar titulo"
+Um aplicativo simples e eficiente para baixar vídeos e músicas do YouTube nos formatos MP3 e MP4, com suporte para playlists.
+✨ Funcionalidades
 
-## Download de Playlist
+    ✅ Download de vídeos individuais em MP4
 
-O link da playlist **PRECISA** ter *playlist?* na url, se tiver *watch?* troque pra **playlist?**
-Selecione o tipo de arquivo MP3 ou MP4
-Escolha a pasta de salvamento
-E agora é só baixar!
+    ✅ Extração de áudio em MP3
 
-!(https://media.tenor.com/hygjTrTLjKwAAAAi/neco-arc-mbtl.gif)
+    ✅ Download de playlists completas
+
+    ✅ Interface amigável e intuitiva
+
+    ✅ Visualização do título antes do download
+
+📥 Como Usar
+Download MP3 (Áudio)
+
+    Cole o link do vídeo na barra de links
+
+    Selecione a opção MP3
+
+    Escolha a pasta de destino
+
+    Clique em Download
+
+Download MP4 (Vídeo)
+
+    Cole o link do vídeo na barra de links
+
+    Selecione a opção MP4
+
+    Escolha a pasta de destino
+
+    Clique em Download
+
+    💡 Dica: Você pode visualizar o título do vídeo clicando no botão "Mostrar Título"
+
+Download de Playlists
+
+    Certifique-se que o link da playlist contenha playlist? na URL
+
+        Se tiver watch?, substitua por playlist?
+
+    Selecione o formato desejado (MP3 ou MP4)
+
+    Escolha a pasta de salvamento
+
+    Clique em Download
+
+🚀 Tecnologias
+
+    Python
+
+    PyTube
+
+    CustomTkinter
+
+    Threading para downloads simultâneos
+
+📁 Estrutura do Projeto
+text
+
+YT_Downloader/
+├── main.py              # Interface principal
+├── downloader.py        # Lógica de download
+├── requirements.txt     # Dependências
+└── README.md           # Documentação
+
+⚙️ Instalação
+
+    Clone o repositório:
+
+bash
+
+git clone https://github.com/seu-usuario/YT_Downloader.git
+
+    Instale as dependências:
+
+bash
+
+pip install -r requirements.txt
+
+    Execute o aplicativo:
+
+bash
+
+python main.py
+
+📝 Requisitos
+
+    Python 3.8+
+
+    Conexão com internet
+
+    Permissões de escrita no sistema
+
+⚠️ Observações Importantes
+
+    Use este aplicativo apenas para conteúdo que você tem permissão para baixar
+
+    Respeite os direitos autorais e os termos de serviço do YouTube
+
+    O aplicativo é para uso pessoal e educacional
+
+🐛 Problemas Conhecidos
+
+    Alguns vídeos com restrições de idade podem não ser baixáveis
+
+    Playlists muito grandes podem levar tempo considerável
+
+🤝 Contribuindo
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
+<div align="center">
+
+Divirta-se baixando! 🎉
+
+https://media.tenor.com/hygjTrTLjKwAAAAi/neco-arc-mbtl.gif
+</div>
