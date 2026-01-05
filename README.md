@@ -1,6 +1,6 @@
-🎬 YT Downloader
+# 🎬 YT Downloader
 
-Um aplicativo simples e eficiente para baixar vídeos e músicas do YouTube nos formatos MP3 e MP4, com suporte para playlists.
+Um aplicativo simples e eficiente para baixar vídeos e músicas do YT nos formatos MP3 e MP4, com suporte para playlists.
 ✨ Funcionalidades
 
     ✅ Download de vídeos individuais em MP4
@@ -13,8 +13,8 @@ Um aplicativo simples e eficiente para baixar vídeos e músicas do YouTube nos 
 
     ✅ Visualização do título antes do download
 
-📥 Como Usar
-Download MP3 (Áudio)
+## 📥 Como Usar
+### Download MP3 (Áudio)
 
     Cole o link do vídeo na barra de links
 
@@ -24,7 +24,7 @@ Download MP3 (Áudio)
 
     Clique em Download
 
-Download MP4 (Vídeo)
+### Download MP4 (Vídeo)
 
     Cole o link do vídeo na barra de links
 
@@ -36,7 +36,7 @@ Download MP4 (Vídeo)
 
     💡 Dica: Você pode visualizar o título do vídeo clicando no botão "Mostrar Título"
 
-Download de Playlists
+### Download de **Playlists**
 
     Certifique-se que o link da playlist contenha playlist? na URL
 
@@ -48,7 +48,7 @@ Download de Playlists
 
     Clique em Download
 
-🚀 Tecnologias
+# Tecnologias
 
     Python
 
@@ -58,7 +58,7 @@ Download de Playlists
 
     Threading para downloads simultâneos
 
-📁 Estrutura do Projeto
+# 📁Estrutura do Projeto
 text
 
 YT_Downloader/
@@ -67,13 +67,11 @@ YT_Downloader/
 ├── requirements.txt     # Dependências
 └── README.md           # Documentação
 
-⚙️ Instalação
+# ⚙️ Instalação
 
     Clone o repositório:
 
 bash
-
-git clone https://github.com/seu-usuario/YT_Downloader.git
 
     Instale as dependências:
 
@@ -95,26 +93,26 @@ python main.py
 
     Permissões de escrita no sistema
 
-⚠️ Observações Importantes
+## ⚠️ Observações Importantes
 
     Use este aplicativo apenas para conteúdo que você tem permissão para baixar
 
-    Respeite os direitos autorais e os termos de serviço do YouTube
+    Respeite os direitos autorais e os termos de serviço do YT
 
     O aplicativo é para uso pessoal e educacional
 
-🐛 Problemas Conhecidos
+## 🐛 Problemas Conhecidos
 
     Alguns vídeos com restrições de idade podem não ser baixáveis
 
     Playlists muito grandes podem levar tempo considerável
 
-🤝 Contribuindo
+## 🤝 Contribuindo
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
 <div align="center">
 
 Divirta-se baixando! 🎉
+<img src="https://media.tenor.com/hygjTrTLjKwAAAAi/neco-arc-mbtl.gif" alt="Texto alternativo" width="50%" height="50%"/>
 
-https://media.tenor.com/hygjTrTLjKwAAAAi/neco-arc-mbtl.gif
 </div>
